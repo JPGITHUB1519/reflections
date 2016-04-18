@@ -29,16 +29,16 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-the result of mergint the two branches together is unificate the
-two branches making it only one branch. We represent it with two lines
-going to a circle
+	the result of mergin the two branches toguether is unificate the
+	two branches making it only one branch. We represent it with two lines
+	going to a circle
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 
-pro :
+	pro :
 
-automatic is easier
+	automatic is easier
 
-cons
+	cons
 
-automatic do not know what i want. It just take te best option.
+	automatic do not know what i want. It just take te best option.
